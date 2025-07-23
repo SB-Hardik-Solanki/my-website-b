@@ -1,0 +1,25 @@
+{
+  "name": "my-website-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SB-Hardik-Solanki/my-website-b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SB-Hardik-Solanki/my-website-b/issues"
+  },
+  "homepage": "https://github.com/SB-Hardik-Solanki/my-website-b#readme",
+  "description": "",
+  "dependencies": {
+    "astro": "^5.12.2"
+  }
+}
