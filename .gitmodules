@@ -1,3 +1,4 @@
 [submodule "src/shared"]
 	path = src/shared
-	url = git@github.com:SB-Hardik-Solanki/my-common-components.git
+	url = https://github.com/SB-Hardik-Solanki/my-common-components.git
+	branch = main
